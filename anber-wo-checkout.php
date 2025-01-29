@@ -3,7 +3,7 @@
  * Plugin Name: Anber wo checkout
  * Description: Woocommerce checkout customizer plugin
  * Version: 1.0
- * Version: 1.1.1
+ * 
  * Author: MD Enam Ahamed Chowdhury
  * Author URI: https://github.com/enamahamed
  */
