@@ -1,10 +1,11 @@
 <?php
-
 /**
- * Plugin Name:Anber wo checkout
- * Description: A custom plugin 
+ * Plugin Name: Anber wo checkout
+ * Description: Woocommerce checkout customizer plugin
  * Version: 1.0
- * Author: Your Name
+ * Version: 1.1.1
+ * Author: MD Enam Ahamed Chowdhury
+ * Author URI: https://github.com/enamahamed
  */
 // Ensure Carbon Fields is loaded
 if (!class_exists('Carbon_Fields\Carbon_Fields')) {
